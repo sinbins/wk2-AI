@@ -1,0 +1,3 @@
+﻿  Ai-Week2.cpp
+D:\C++ Projects\AiClassProjects\Ai-Week2\Ai-Week2.cpp(36,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ai-Week2.vcxproj -> D:\C++ Projects\AiClassProjects\Ai-Week2\x64\Debug\Ai-Week2.exe
